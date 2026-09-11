@@ -1,12 +1,13 @@
+<img width="1672" height="941" alt="Miraz Ahmed" src="https://github.com/user-attachments/assets/088fc63f-a664-4f3e-ad52-5c08f3f77fd5" />
 
 <p align="center">
   <b>A software engineer who loves building products.</b><br> <br>
-  <a href="https://www.chetanverma.com" target="_blank">Portfolio</a> |
-  <a href="https://ui.chetanverma.com" target="_blank">UI Components</a> |
-  <a href="https://www.linkedin.com/in/chetanverma7/" target="_blank">LinkedIn</a> |
-  <a href="https://www.behance.net/chetanverma" target="_blank">Behance</a> |
-  <a href="https://dribbble.com/chetanverma" target="_blank">Dribbble</a> |
-   <a href="https://twitter.com/chetanvermaaa" target="_blank">Twitter</a> |
+  <a href="https://mirazahmed.xyz/" target="_blank">Portfolio</a> |
+  <a href="https://ui.mirazahmed.xyz/" target="_blank">UI Components</a> |
+  <a href="https://www.linkedin.com/in/miraz7ahmed/" target="_blank">LinkedIn</a> |
+  <!-- <a href="https://www.behance.net/chetanverma" target="_blank">Behance</a> | -->
+  <!-- <a href="https://dribbble.com/chetanverma" target="_blank">Dribbble</a> | -->
+   <a href="https://twitter.com/ahmeed_miraz" target="_blank">Twitter</a> |
   <br><br>
 </p>
 
