@@ -1,4 +1,4 @@
-![Web 1920 – 1](https://user-images.githubusercontent.com/16558205/134394698-7b986c22-5829-4f73-ab1f-d3107105f499.png)
+
 <p align="center">
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.chetanverma.com" target="_blank">Portfolio</a> |
